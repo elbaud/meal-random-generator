@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run crypto_app.py
+web: sh setup.sh && streamlit run meal_app.py
